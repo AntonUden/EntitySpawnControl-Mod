@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+acceptableRemoteVersions="*"
+modId="entityspawncontrol"
+version="1.0"
+displayName="Entity Spawn Control"
+authors="Zeeraa01"
+description='''
+This mod can be used to blacklist certain mob types
+'''
